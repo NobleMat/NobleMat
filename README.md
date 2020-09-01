@@ -1,8 +1,8 @@
 ### Hi there, I'm Noble 👋
 
-### I'm an iOS Developer!
+### I'm a Husband and an iOS Developer!
 
-- 🔭 I’m currently working on moving the boiler plate code that I use for all of my personal projects into it's own library.
+- 🔭 I’m currently working on moving the boiler plate code that I use for all of my personal projects into it's own library apart from helping my client solve the world problems. 😅
 - 🌱 I’m currently learning more iOS, Flutter and React.
 - ⚡ Fun fact: I love to draw and play guitar, sing and solve puzzles on Brilliant.
 
