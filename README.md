@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on moving the boiler plate code that I use for all of my personal projects into it's own library apart from helping my client solve the world problems. 😅
 - 🌱 I’m currently learning more iOS, Flutter and React.
-- ⚡ Fun fact: I love to play guitar, sing and solve puzzles on Brilliant.
+- ⚡ _Fun fact_: I love to play guitar, sing and solve puzzles on Brilliant.
 
 ### Connect with me:
 
